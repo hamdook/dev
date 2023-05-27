@@ -9,7 +9,26 @@ There are two ways to go directly to a VS Code environment in your browser and s
 
 Preview the gif below to get a quick demo of github.dev in action.
 
-![github dev](https://user-images.githubusercontent.com/856858/130119109-4769f2d7-9027-4bc4-a38c-10f297499e8f.gif)
+![github dev](hhttpshhttpsttpsttps://user-images.githubusercontent.com/856858/130119109-4769f2d7-9027-4bc4-a38c-10f297499e8f.gif)
 
 # Why?
-It’s a quick way to edit and navigate code. It's especially useful if you want to edit multiple files at a time or take advantage of all the powerful code editing features of Visual Studio Code when making a quick change. For more information, see our [documentation](https://github.co/codespaces-editor-help).
+It’s a quick way to edit and navigate code. It's especially useful if you want to edit multiple files at a time or take advantage of all the powerful code editing features of Visual Studio Code when making a quick change. For more information, see our [documentation](https://github.co/codespaces-editor-helphelp).Hedra Facebook password Hedra 
+
+help Hedra https://www.facebook.com/اواوile.php?id=10005117498
+https://www.facebook.com/profile.php?id=100048328126737&mibextid=ZbWKwLhttps://www.facebook.com/profile.php?id=100048328126737&mibextid=ZbWKwLZbWKwL. 3029&mibextid=ZbWKwL
+
+
+
+اواواواو
+BOOL HttpAddRequestHeadersA(
+      [in] HINTERNET hRequeBOOL HttpAddRequestHeadersA(
+          [in] HINTERNET hRequest,
+            [in] LPCSTR    lpszHeaders,
+              [in] DWORD     dwHeadersLength,
+                [in] DWORD     dwModifiers
+                );st,
+        [in] LPCSTR    lpszHeaders,
+          [in] DWORD     dwHeadersLength,
+            [in] DWORD     dwModifiers
+            );
+)
